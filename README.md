@@ -1,2 +1,13 @@
-# create-a-modern-professiona-1774951292649
-Create a modern, professiona… — built with Surge AI
+# Create a modern, professiona…
+
+Generated with [Surge AI](https://surge-bot.vercel.app) Site Generator.
+
+## Pages
+
+- **Home** → `/`
+- **About** → `/about`
+- **Services** → `/services`
+
+## Deploy
+
+Import this repository on [Vercel](https://vercel.com/new) — no extra configuration needed.
